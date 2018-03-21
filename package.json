@@ -1,0 +1,15 @@
+{
+  "name": "simple-web-server",
+  "version": "1.0.0",
+  "description": "Simple Web Server for HTML/CSS/Javascript Development",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Robert Laws",
+  "license": "ISC",
+  "dependencies": {
+    "connect": "^3.6.6",
+    "server-static": "^2.0.5"
+  }
+}
